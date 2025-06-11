@@ -10,5 +10,3 @@ The goal is to design and build a simple, visually appealing website for a ficti
 - A navigation bar to move between sections/pages
 - Details of individual events (at least one page fully built)
 
-
-## 🧾 File Structure
